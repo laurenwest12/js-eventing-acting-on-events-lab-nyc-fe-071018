@@ -32,7 +32,7 @@ function moveDodgerRight() {
   })
 }
 
-document.addEventListener('DOMContentLoaded', (event) => {
-  moveDodgerRight()
-})
+// document.addEventListener('DOMContentLoaded', (event) => {
+//   moveDodgerRight()
+// })
 
