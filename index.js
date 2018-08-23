@@ -31,3 +31,5 @@ function moveDodgerRight() {
   }
   })
 }
+
+function moveDodgerRight()
